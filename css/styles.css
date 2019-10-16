@@ -13,3 +13,8 @@
 .about{
   font-style: italic;
 }
+
+div {
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
